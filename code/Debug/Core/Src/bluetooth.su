@@ -1,0 +1,4 @@
+../Core/Src/bluetooth.c:10:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/bluetooth.c:20:6:read_logic	8	static
+../Core/Src/bluetooth.c:40:6:line_append	16	static
+../Core/Src/bluetooth.c:62:6:bluetooth_send	8	static
