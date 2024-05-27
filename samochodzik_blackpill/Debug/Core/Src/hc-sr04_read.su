@@ -1,2 +1,0 @@
-../Core/Src/hc-sr04_read.c:13:6:hcsr04_read_init	8	static
-../Core/Src/hc-sr04_read.c:20:7:obstacle_detection	16	static
