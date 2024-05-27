@@ -1,7 +1,7 @@
 # Remote-controlled car
 
-### Remote-controlled car project which I made for my electronics studies. 
-### It is an old toy-car which had been controled with controller. We took it apart and used bluetooth to communicate car with smartphone app.
+A remote-controlled car project that I made for my electronics studies.
+It is an old toy car that was originally controlled with a controller. We took it apart and used Bluetooth to communicate between the car and a smartphone app.
 
 ## Device used in this project:
 - Blackpill STM32F411CEU6
@@ -12,6 +12,5 @@
 - toy car
 
 ## Project organisation:
-- *remote-controlled_car/* - directory with project
-- *doc/* - directory with documetacion and images (documetation generated with **Doxygen**)
-
+- *remote-controlled_car/* - directory with the project
+- *doc/* - directory with documentation and images (documentation generated with **Doxygen**)
