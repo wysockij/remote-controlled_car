@@ -5,11 +5,13 @@
 
 ## Device used in this project:
 - Blackpill STM32F411CEU6
-- editor - STM32CubeIDE
 - bluetooth module - HC-06
-- ultrasonic Distance Sensor - HC-SR04
+- ultrasonic distance sensor - HC-SR04
+- editor - STM32CubeIDE
+- Android app - RoboRemoFree
 - toy car
 
 ## Project organisation:
 - *remote-controlled_car/* - directory with project
-- *doc/* - directory with documetacion
+- *doc/* - directory with documetacion and images (documetation generated with **Doxygen**)
+
